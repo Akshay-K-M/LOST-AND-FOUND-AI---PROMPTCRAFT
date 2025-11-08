@@ -1,0 +1,5 @@
+{
+  "name": "PromptCraft: Lost & Found AI",
+  "description": "A web-based lost and found platform where users can report lost or found items. Features an AI-powered 'Smart Search' to help reunite people with their belongings.",
+  "requestFramePermissions": []
+}
